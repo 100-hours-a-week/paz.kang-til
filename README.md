@@ -26,7 +26,9 @@
 
 24.04.22 git & JS 응용 ([상세 내역 링크](https://github.com/100-hours-a-week/paz.kang-til/blob/main/Apr/2024-04-22.md))
 
-24.04.22 git 실습 & 과제2 fetch 구현 ([상세 내역 링크](https://github.com/100-hours-a-week/paz.kang-til/blob/main/Apr/2024-04-23.md))
+24.04.23 git 실습 & 과제2 fetch 구현 ([상세 내역 링크](https://github.com/100-hours-a-week/paz.kang-til/blob/main/Apr/2024-04-23.md))
+
+24.04.24 route-controller-model 개념 정리 & 폴더 구조 정리 ([상세 내역 링크](https://github.com/100-hours-a-week/paz.kang-til/blob/main/Apr/2024-04-24.md))
 
 ### [n월 n째주, n주차] : 간략 주제 작성 
 
