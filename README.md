@@ -30,6 +30,8 @@
 
 24.04.24 route-controller-model 개념 정리 & 폴더 구조 정리 ([상세 내역 링크](https://github.com/100-hours-a-week/paz.kang-til/blob/main/Apr/2024-04-24.md))
 
+24.04.25 model 개념 다지기 & 구현 진행 ([상세 내역 링크](https://github.com/100-hours-a-week/paz.kang-til/blob/main/Apr/2024-04-25.md))
+
 ### [n월 n째주, n주차] : 간략 주제 작성 
 
 yy.mm.dd 세부 주제 4 작성 (상세 내역 링크)
